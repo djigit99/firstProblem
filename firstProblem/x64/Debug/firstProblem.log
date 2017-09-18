@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\vsprojects\firstproblem\firstproblem\source.cpp(80): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\vsprojects\firstproblem\firstproblem\source.cpp(81): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  firstProblem.vcxproj -> D:\vsprojects\firstProblem\x64\Debug\firstProblem.exe
+  firstProblem.vcxproj -> D:\vsprojects\firstProblem\x64\Debug\firstProblem.pdb (Partial PDB)
